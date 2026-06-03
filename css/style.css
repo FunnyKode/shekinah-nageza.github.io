@@ -430,6 +430,15 @@ button {
   animation: rotate-counter 8s linear infinite;
 }
 
+.avatar-photo-placeholder {
+  border: 2px dashed var(--clr-border);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-align: center;
+  padding: 1rem;
+}
+
 .about-text {
   display: flex;
   flex-direction: column;
